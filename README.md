@@ -10,32 +10,29 @@ A curated set of Ren'Py tools and visual novel projects to enhance both developm
 > I’ll update their current status on my GitHub profile when possible.  
 > For urgent questions or support, feel free to contact me on Discord (**san0901**) — I’ll reply as promptly as I can.
 
+
 ### 🔊 Lip Sync Plugin for Ren'Py  
 Enhance your Ren'Py visual novel experience with automatic lip-sync animations using Rhubarb Lip Sync.  
 - **GitHub:** [RenPy-Lipsync-Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/lipsync-plugin-for-renpy)
 
----
 
 ### 🤖 AutoScripting Plugin (ChatGPT API Integration)  
 Generate text dynamically using AI in your VN with full integration into Ren'Py.  
 - **GitHub:** [RenPy-AutoScriptPlugin](https://github.com/Wendy-Nam/RenPy-AutoScriptPlugin)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy)
 
----
 
 ### 🎯 Shooting Game Plugin for Ren'Py (FPS)  
 Integrate a first-person shooter minigame into your VN projects for interactive depth.  
 - **GitHub:** [RenPy-ShootingGamePlugin-FPS](https://github.com/Wendy-Nam/RenPy-ShootingGamePlugin-FPS)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/shooting-game-v1)
 
----
 
 ### 🔘 RadioButtonGroup Plugin  
 Custom grouped radio buttons using text or image options — ideal for menus or preferences.  
 - **GitHub:** [RenPy-RadioButtonGroup](https://github.com/Wendy-Nam/RenPy-RadioButtonGroup)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/radiobuttongroup-plugin-for-renpy)
----
 
 
 ### 🖼️ Ren'Py Layout Tool  
@@ -43,6 +40,9 @@ Preview and position image overlays live without script edits.
 - **GitHub:** [RenPy-LayoutTool](https://github.com/Wendy-Nam/RenPy-LayoutTool)  
 - **Demo:** [Video 1](https://youtu.be/f3nDPWE2CIc) | [Video 2](https://youtu.be/MNqknAaeDuE)  
 - **Itch.io:** *(Not yet released)*
+
+## 📄 License  
+All plugins are licensed under the **MIT License**, unless otherwise specified.
 
 ---
 
@@ -74,12 +74,23 @@ Loop-based mystery with timeline deduction mechanics. Currently paused, resuming
 
 ---
 
-
 ## 📁 VN Developer Portfolio (Last updated prior to the 2024 Spooktober Jam)
 Explore more game development & plugin experiments:  
 👉 [Notion Portfolio](https://educated-tarsier-f16.notion.site/VN-Programmer-Portfolio-4681b9cf5da2455f9777bc7b80438b18?pvs=74)
 
 ---
 
-## 📄 License  
-All plugins are licensed under the **MIT License**, unless otherwise specified.
+## 📰 External Mentions
+
+This project and its tools have been featured or referenced in several community-curated and discussion platforms:
+
+- **Awesome Ren'Py**  
+  Included in the [Awesome Ren'Py](https://github.com/methanoliver/awesome-renpy?tab=readme-ov-file#visual-novel-elements) list for:  
+  - `RenPy Lipsync Plugin`: Integration of Rhubarb Lip Sync engine into Ren'Py.
+
+- **Lemmy Discussion @ Ren'Py Community**  
+  Included in the [Ren'Py Resources Topic](https://lemmasoft.renai.us/forums/viewtopic.php?t=68874) list for:  
+  - `15) lip-sync animations for Ren'Py using Rhubarb Lip Sync`
+ 
+- **Tesseract Lemmy**  
+  [Ren'Py Layout Tool](https://tesseract.lemmy.dbzer0.com/post/lemmy.dbzer0.com/28724730) highlighted for its ability to preview and place images instantly in-scene.
