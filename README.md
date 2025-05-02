@@ -63,7 +63,7 @@ Provided support on UI scripting and debugging rendering issues.
 ---
 ### ✉️ *Canary Courier* – Spooktober VN Jam 2024 Submission  
 A short emotional story following a messenger bird’s surreal delivery mission.  
-- **GitHub:** [Canary Courier Repo](https://github.com/Wendy-Nam/Canary-Courier)  
+- **GitHub:** [Canary Courier Repo](https://github.com/CANARY-COURIER/CanaryGame)  
 - **Itch.io:** [Play on itch.io](https://quack-n-loaf.itch.io/canary-courier#credit)
 
 ---
