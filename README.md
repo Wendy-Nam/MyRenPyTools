@@ -48,7 +48,7 @@ All plugins are licensed under the **MIT License**, unless otherwise specified.
 
 ## 🎮 Visual Novel Projects
 
-### 🎃 Spooktober VN Jam 2023 – Spooktober VN Jam 2023 Submission  
+### 🎃 *A Trick Of The Mind* – Spooktober VN Jam 2023 Submission  
 A Halloween-themed visual novel created for Spooktober Game Jam. Focus on psychological horror and branching narrative.  
 - **GitHub:** [SAN GitHub Repo](https://github.com/Wendy-Nam/SpookyVN2023)  
 - **Itch.io:** [Play on itch.io](https://rafazcruz.itch.io/a-trick-of-the-mind)
@@ -61,7 +61,7 @@ Provided support on UI scripting and debugging complex rendering issues.
 - **Itch.io:** [Play on itch.io](https://rosesrot.itch.io/seraphim-slum)
 
 ---
-### ✉️ *Canary Courier (Demo) * – Spooktober VN Jam 2024 Submission  
+### ✉️ *Canary Courier (Demo)* – Spooktober VN Jam 2024 Submission  
 A short emotional story following a messenger bird’s surreal delivery mission (with horror elements).
 - **GitHub:** [Canary Courier Repo](https://github.com/CANARY-COURIER/CanaryGame)  
 - **Itch.io:** [Play on itch.io](https://quack-n-loaf.itch.io/canary-courier#credit)
