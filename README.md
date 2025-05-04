@@ -56,13 +56,13 @@ A Halloween-themed visual novel created for Spooktober Game Jam. Focus on psycho
 ---
 
 ### 🤝 *Seraphim Slum:* *UI Programmer*  
-Provided support on UI scripting and debugging rendering issues.
+Provided support on UI scripting and debugging complex rendering issues.
 - **GitHub:** *(Currently not found)*
 - **Itch.io:** [Play on itch.io](https://rosesrot.itch.io/seraphim-slum)
 
 ---
-### ✉️ *Canary Courier* – Spooktober VN Jam 2024 Submission  
-A short emotional story following a messenger bird’s surreal delivery mission.  
+### ✉️ *Canary Courier (Demo) * – Spooktober VN Jam 2024 Submission  
+A short emotional story following a messenger bird’s surreal delivery mission (with horror elements).
 - **GitHub:** [Canary Courier Repo](https://github.com/CANARY-COURIER/CanaryGame)  
 - **Itch.io:** [Play on itch.io](https://quack-n-loaf.itch.io/canary-courier#credit)
 
