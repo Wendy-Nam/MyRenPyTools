@@ -10,36 +10,31 @@ A curated set of Ren'Py tools and visual novel projects to enhance both developm
 > I’ll update their current status on my GitHub profile when possible.  
 > For urgent questions or support, feel free to contact me on Discord (**san0901**) — I’ll reply as promptly as I can.
 
-
 ### 🔊 Lip Sync Plugin for Ren'Py  
 Enhance your Ren'Py visual novel experience with automatic lip-sync animations using Rhubarb Lip Sync.  
 - **GitHub:** [RenPy-Lipsync-Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/lipsync-plugin-for-renpy)
 
+### 🖼️ Ren'Py Layout Tool  
+Preview and position image overlays live without script edits.  
+- **GitHub:** [RenPy-LayoutTool](https://github.com/Wendy-Nam/RenPy-LayoutTool)
+- **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/layouttools) 
+- **Demo:** [Video 1](https://youtu.be/f3nDPWE2CIc) | [Video 2](https://youtu.be/MNqknAaeDuE)  
 
 ### 🤖 AutoScripting Plugin (ChatGPT API Integration)  
 Generate text dynamically using AI in your VN with full integration into Ren'Py.  
 - **GitHub:** [RenPy-AutoScriptPlugin](https://github.com/Wendy-Nam/RenPy-AutoScriptPlugin)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/auto-scripting-ai-plugin-for-renpy)
 
-
 ### 🎯 Shooting Game Plugin for Ren'Py (FPS)  
 Integrate a first-person shooter minigame into your VN projects for interactive depth.  
 - **GitHub:** [RenPy-ShootingGamePlugin-FPS](https://github.com/Wendy-Nam/RenPy-ShootingGamePlugin-FPS)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/shooting-game-v1)
 
-
 ### 🔘 RadioButtonGroup Plugin  
 Custom grouped radio buttons using text or image options — ideal for menus or preferences.  
 - **GitHub:** [RenPy-RadioButtonGroup](https://github.com/Wendy-Nam/RenPy-RadioButtonGroup)  
 - **Itch.io:** [View on itch.io](https://seo-a-nam.itch.io/radiobuttongroup-plugin-for-renpy)
-
-
-### 🖼️ Ren'Py Layout Tool  
-Preview and position image overlays live without script edits.  
-- **GitHub:** [RenPy-LayoutTool](https://github.com/Wendy-Nam/RenPy-LayoutTool)  
-- **Demo:** [Video 1](https://youtu.be/f3nDPWE2CIc) | [Video 2](https://youtu.be/MNqknAaeDuE)  
-- **Itch.io:** *(Not yet released)*
 
 ## 📄 License  
 All plugins are licensed under the **MIT License**, unless otherwise specified.
