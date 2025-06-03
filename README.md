@@ -93,11 +93,11 @@ All plugins are licensed under the **MIT License**, unless otherwise noted (some
 
 ---
 
-### ✉️ *Canary Courier (Demo)* – Spooktober 2024  
+### ✉️ *Canary Courier (Demo)* – Spooktober VN Jam 2024
 
 > A gentle delivery story that gradually shifts into a surreal and eerie tone.
 
-- **Role:** Lead eveloper  
+- **Role:** Lead developer
 - **GitHub:** [Repo](https://github.com/CANARY-COURIER/CanaryGame)  
 - **Itch.io:** [Play on Itch.io](https://quack-n-loaf.itch.io/canary-courier#credit)
 
