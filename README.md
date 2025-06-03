@@ -74,32 +74,42 @@ All plugins are licensed under the **MIT License**, unless otherwise noted (some
 ## 🎮 Visual Novel Projects
 
 ### 🎃 *A Trick Of The Mind* – Spooktober VN Jam 2023  
-**Role:** Full dev (writing, scripting, branching logic)  
-Psychological horror & interactive narrative.  
+
+> Psychological horror & interactive narrative.
+
+- **Role:** Sole developer (team project)
 - **GitHub:** [Repo](https://github.com/Wendy-Nam/SpookyVN2023)  
 - **Itch.io:** [Play on Itch.io](https://rafazcruz.itch.io/a-trick-of-the-mind)
 
 ---
 
-### 🤝 *Seraphim Slum*  
-**Role:** UI Programmer  
-UI scripting & debug support.  
+### 🤝 *Seraphim Slum* – Assistant Participation  
+
+> A story-driven yuri VN with a somber, emotional tone.
+
+- **Role:** UI Programmer  
+  - Supported UI scripting and rendering-related debugging.
 - **Itch.io:** [Play on Itch.io](https://rosesrot.itch.io/seraphim-slum)
 
 ---
 
 ### ✉️ *Canary Courier (Demo)* – Spooktober 2024  
-**Role:** Writer + Developer  
-Emotional delivery story with surreal horror.  
+
+> A gentle delivery story that gradually shifts into a surreal and eerie tone.
+
+- **Role:** Lead eveloper  
 - **GitHub:** [Repo](https://github.com/CANARY-COURIER/CanaryGame)  
 - **Itch.io:** [Play on Itch.io](https://quack-n-loaf.itch.io/canary-courier#credit)
 
 ---
-
 ### 🧩 *Final Testimony* *(WIP)*  
-**Role:** Game designer, scripter  
-Mystery VN with loop/timeline mechanics.  
-- **GitHub:** *(Private — includes premium tools)*
+> Mystery VN with loop-based timeline mechanics.  
+
+- **Role:** Project lead, lead developer, scripter, and KR→EN translator
+  - Implemented core interactive mechanics and managed overall development.
+- **GitHub:** *(Private — includes premium tools)*  
+- Currently paused due to artist availability during the game jam;
+- development is set to resume by the end of the year, per team agreement.
 
 ---
 
