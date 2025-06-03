@@ -4,21 +4,20 @@ A curated set of Ren'Py tools and visual novel projects to enhance both developm
 
 ---
 
-## 🏅 External Mentions
+## ✨ Featured Mentions & Trusted Listings  
 
-> 💬 Since these tools are beginner-friendly, most usage and feedback come through **Itch.io**, **Discord**, and community forums rather than GitHub.  
-> These mentions better reflect how the tools are actually used and trusted.
+> Recognized by official communities and curated platforms.  
+> As Ren'Py is beginner-friendly, most feedback comes from **Itch.io**, **Discord**, and forums —  
+> offering a more accurate view than GitHub stars
 
-### 🔗 View Full Reference Gallery  
+### 📚 View Full Reference Gallery  
 
-👉 **[Notion Gallery (포트폴리오 정리)](https://educated-tarsier-f16.notion.site/1f19bf46184a80f2b6a9df61a6bb91cb?v=1f19bf46184a80bcb83b000cce2b4b2f)**
+> **Summary, screenshots, and verified links** — content in English, labels in Korean.
 
-Includes summaries, community screenshots, and reference links.  
+**[Notion Gallery (커뮤니티 반응 정리)](https://educated-tarsier-f16.notion.site/1f19bf46184a80f2b6a9df61a6bb91cb?v=1f19bf46184a80bcb83b000cce2b4b2f)**
 
-> **Note:** Categories and table labels are in *Korean*, but all main content and screenshots are in **English**.  
-> Browser translation (Chrome/Safari) may help with navigation.
 
-### 📌 Featured in Official & Curated Platforms
+### 🏆 Featured in Official & Curated Platforms
 
 - **Awesome Ren'Py**  
   Listed in the [Awesome Ren'Py](https://github.com/methanoliver/awesome-renpy?tab=readme-ov-file#visual-novel-elements) repository:  
@@ -45,25 +44,30 @@ Includes summaries, community screenshots, and reference links.
 
 > For urgent questions or support, feel free to contact me on Discord (**san0901**) — I’ll reply as promptly as I can.
 
-### 🔊 Lip Sync Plugin for Ren'Py  
+#### 🔊 Lip Sync Plugin for Ren'Py  
 Adds automatic lip-sync animations using Rhubarb Lip Sync.  
 - **GitHub:** [RenPy-Lipsync-Plugin](https://github.com/Wendy-Nam/RenPy-Lipsync-Plugin)
 
-### 🖼️ Ren'Py Layout Tool  
+#### 🖼️ Ren'Py Layout Tool  
 Live image/UI placement without scripting edits.  
 - **GitHub:** [RenPy-LayoutTool](https://github.com/Wendy-Nam/RenPy-LayoutTool)
 
-### 🤖 AutoScripting Plugin (ChatGPT API Integration)  
+#### 🤖 AutoScripting Plugin (ChatGPT API Integration)  
 Integrates GPT-generated text into Ren'Py flow.  
 - **GitHub:** [RenPy-AutoScriptPlugin](https://github.com/Wendy-Nam/RenPy-AutoScriptPlugin)
 
-### 🎯 Shooting Game Plugin (FPS Mini-Game)  
+#### 🎯 Shooting Game Plugin (FPS Mini-Game)  
 Adds first-person shooter mechanics into Ren'Py.  
 - **GitHub:** [RenPy-ShootingGamePlugin-FPS](https://github.com/Wendy-Nam/RenPy-ShootingGamePlugin-FPS)
 
-### 🔘 RadioButtonGroup Plugin  
+#### 🔘 RadioButtonGroup Plugin  
 Custom radio groups with text/image toggles.  
 - **GitHub:** [RenPy-RadioButtonGroup](https://github.com/Wendy-Nam/RenPy-RadioButtonGroup)
+
+---
+
+## 📄 License  
+All plugins are licensed under the **MIT License**, unless otherwise noted (some use **CC0**).
 
 ---
 
@@ -99,7 +103,7 @@ Mystery VN with loop/timeline mechanics.
 
 ---
 
-## 🗂️ VN Developer Portfolio  
+### 🗂️ VN Developer Profile (2024-08 ver.)  
 
 > This profile was originally written in 2024 for team recruitment during game jams —  
 > it also reflects the kinds of features I enjoy exploring or plan to develop in Ren'Py.
@@ -107,8 +111,3 @@ Mystery VN with loop/timeline mechanics.
 👉 [Notion Portfolio](https://educated-tarsier-f16.notion.site/VN-Programmer-Portfolio-4681b9cf5da2455f9777bc7b80438b18?pvs=74)
 
 Explore additional plugin experiments, mini-game prototypes, and development logs.
-
----
-
-## 📄 License  
-All plugins are licensed under the **MIT License**, unless otherwise noted (some use **CC0**).
