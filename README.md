@@ -4,7 +4,7 @@ A curated set of Ren'Py tools and visual novel projects to enhance both developm
 
 ---
 
-## 📰 External Mentions
+## 🏅 External Mentions
 
 > 💬 Since these tools are beginner-friendly, most usage and feedback come through **Itch.io**, **Discord**, and community forums rather than GitHub.  
 > These mentions better reflect how the tools are actually used and trusted.
