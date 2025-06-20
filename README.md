@@ -12,10 +12,9 @@ A curated set of Ren'Py tools and visual novel projects to enhance both developm
 
 ### 📚 View Full Reference Gallery  
 
-> **Summary, screenshots, and verified links** — content in English, labels in Korean.
+> **Summary, screenshots, and verified links**
 
-**[Notion Gallery (커뮤니티 반응 정리)](https://educated-tarsier-f16.notion.site/1f19bf46184a80f2b6a9df61a6bb91cb?v=1f19bf46184a80bcb83b000cce2b4b2f)**
-
+**[Notion Pages](https://educated-tarsier-f16.notion.site/Open-sourced-dev-tool-with-700-downloads-2109bf46184a80db8b47c56a04a92777?source=copy_link)**
 
 ### 🏆 Featured in Official & Curated Platforms
 
